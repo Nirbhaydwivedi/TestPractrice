@@ -6,4 +6,8 @@ public class Test {
 	{
 		System.out.println("This is for test");
 	}
+	public void testpractice()
+	{
+		System.out.println("This is for test practice");
+	}
 }
